@@ -7,10 +7,13 @@ Created on Mon Dec 11 13:17:48 2023
 
 class Validator:
     
-    def validate_numbers(list_for_validation):
+    def validate_numbers(self list_for_validation): 
         """
-        Contains an error, missing self
+        Contains an error, missing comma 
+        after self
         """
+
+     
       
         validated_numbers = []
 
